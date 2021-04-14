@@ -21,6 +21,14 @@ The program takes two arguments passed through the commandline:
 
 Each generation takes half a second of clock time.
 
+Example GIF (quick note: asciinema didt quite capture the utf8 blocks well so they look distorted)
+
+![Example 1](example.gif)
+
+And another example:
+
+![Example 2](example2.gif)
+
 ## Examples
 
 An empty grid
